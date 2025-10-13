@@ -1,6 +1,6 @@
 {
     "name": "@nekosuneprojects/vrchat-infos",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "VRChat data loader for worlds, groups, and players from local JSON files.",
     "main": "index.js",
     "type": "commonjs",
