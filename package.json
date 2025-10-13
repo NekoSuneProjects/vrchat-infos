@@ -1,9 +1,17 @@
 {
     "name": "@nekosuneprojects/vrchat-infos",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "VRChat data loader for worlds, groups, and players from local JSON files.",
     "main": "index.js",
     "type": "commonjs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NekoSuneProjects/vrchat-infos.git"
+    },
+    "bugs": {
+        "url": "https://github.com/NekoSuneProjects/vrchat-infos/issues"
+    },
+    "funding": "https://github.com/NekoSuneProjects/vrchat-infos?sponsor",
     "keywords": [
         "vrchat",
         "infos",
