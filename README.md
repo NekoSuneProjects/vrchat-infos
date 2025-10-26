@@ -145,3 +145,5 @@ Always follow the official [VRChat Terms of Service](https://hello.vrchat.com/le
 
 Maintained by NekoSune Projects
 🐾 Contributions welcome — stay VRChat-friendly!
+
+<!-- GitAds-Verify: 2XHQSF1IKOWF4FH8P2TRI5GRWIJG2TJP -->
