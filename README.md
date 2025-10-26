@@ -147,3 +147,7 @@ Maintained by NekoSune Projects
 🐾 Contributions welcome — stay VRChat-friendly!
 
 <!-- GitAds-Verify: 2XHQSF1IKOWF4FH8P2TRI5GRWIJG2TJP -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=nekosuneprojects/vrchat-infos@github)](https://gitads.dev/v1/ad-track?source=nekosuneprojects/vrchat-infos@github)
+
