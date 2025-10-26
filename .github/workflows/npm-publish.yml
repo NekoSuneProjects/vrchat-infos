@@ -48,7 +48,7 @@ jobs:
           operation: release
 
       # Commit and tag
-      - name: Commit and tag release
+      - name: Commit
         run: |
           git add package.json CHANGELOG.md
           git commit -m "chore: release ${{ env.VERSION }}"
