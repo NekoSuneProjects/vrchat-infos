@@ -52,7 +52,6 @@ jobs:
         run: |
           git add package.json CHANGELOG.md
           git commit -m "chore: release ${{ env.VERSION }}"
-          git tag v${{ env.VERSION }}
 
       # Publish version to npm
       - name: Publish to npm
