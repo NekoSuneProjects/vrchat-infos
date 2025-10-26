@@ -60,12 +60,12 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
 
       # Push changes and tags
-      - name: Push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git push origin
-          git push origin --tags
+      #- name: Push changes
+      #  env:
+      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #  run: |
+      #    git push origin
+      #    git push origin --tags
 
       # Read version changelog
       - id: get_changelog
